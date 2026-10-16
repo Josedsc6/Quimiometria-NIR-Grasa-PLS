@@ -1,0 +1,13 @@
+RESUMEN DE EJECUCIÓN — TECATOR NIR
+Filas válidas antes de deduplicar: 215
+Filas con valores ausentes eliminadas: 0
+Duplicados exactos eliminados: 22
+Muestras únicas analizadas: 193
+Entrenamiento: 154 | Prueba: 39
+Mejor RMSE de prueba: PLS_espectro_original
+RMSE test: 1.822 puntos porcentuales
+MAE test: 1.452 puntos porcentuales
+R² test: 0.980
+
+Interpretar estos resultados en el contexto del tamaño de muestra y de la partición utilizada.
+No equivalen a validación externa industrial ni sustituyen un método de referencia validado.
