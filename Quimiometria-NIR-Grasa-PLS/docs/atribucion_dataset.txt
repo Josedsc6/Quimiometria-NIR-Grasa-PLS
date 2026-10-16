@@ -1,8 +1,0 @@
-Atribución y permiso del dataset Tecator
-
-Los datos se registraron con un Tecator Infratec Food and Feed Analyzer en el rango 850–1050 nm mediante Near Infrared Transmission (NIT). Cada muestra incluye un espectro de absorbancia de 100 canales y los porcentajes de agua, grasa y proteína determinados mediante química analítica.
-
-Fuente y nota de permiso: https://modeldata.tidymodels.org/reference/meats.html
-CSV: https://raw.githubusercontent.com/vincentarelbundock/Rdatasets/master/csv/modeldata/meats.csv
-
-La fuente indica que los datos están disponibles en dominio público, sin responsabilidad por parte de la fuente original, y que pueden redistribuirse siempre que se adjunte esta nota de permiso. También solicita mencionar el instrumento y la empresa Tecator en publicaciones y enviarles una copia previa de cualquier publicación. Este proyecto de portfolio cita la procedencia y no pretende ser una publicación científica.
